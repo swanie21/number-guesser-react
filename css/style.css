@@ -1,0 +1,10 @@
+h1 {
+  font-family: 'Fascinate', serif;
+  font-size: 30px;
+}
+
+.displayGuess {
+  font-size: 36px;
+  height: 100px;
+  width: 100px;
+}
